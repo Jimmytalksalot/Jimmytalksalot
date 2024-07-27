@@ -9,7 +9,6 @@ Also, I make YouTube videos, so check them out!
 
 https://www.youtube.com/channel/UCWrNTL_kbfzrpxkePsxtPGQ
 
-![ballasdasds](https://github.com/user-attachments/assets/d61563c1-80a2-4204-9b15-1e0839026c37)
 
 **I also like to make things in code**
 
